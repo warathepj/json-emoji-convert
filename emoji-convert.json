@@ -1,6 +1,36 @@
 {
     "emojis": [
       {
+        "emo": "🌊",
+        "hint1": "an overflow of water that submerges land that is usually dry.",
+        "hint2": "f...",
+        "giveUp": "้flood"
+      },
+      {
+        "emo": "🦛",
+        "hint1": " Massive, barrel-shaped body with short legs, thick gray skin, and a large head with a wide, gaping mouth..",
+        "hint2": "h...m...",
+        "giveUp": "้hippopotamus"
+      },
+      {
+        "emo": "⚛️💻",
+        "hint1": "This emerging field promises to solve complex problems that are currently intractable for classical computers.",
+        "hint2": "q...c...",
+        "giveUp": "quantum computing"
+      },
+      {
+        "emo": "🥽🌎",
+        "hint1": "A technology that creates a simulated environment using computer software and hardware.",
+        "hint2": "v...r...",
+        "giveUp": "virtual reality"
+      },
+      {
+        "emo": "🤖",
+        "hint1": "Systems that can reason, learn, and actautonomously.",
+        "hint2": "A...",
+        "giveUp": "ai"
+      },
+      {
         "emo": "😀",
         "hint1": "Facial expression",
         "hint2": "sm...",
