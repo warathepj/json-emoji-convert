@@ -1,8 +1,62 @@
 {
     "emojis": [
       {
+        "emo": "🏍️",
+        "hint1": "A high-performance Italian motorcycle known for its distinctive red color, powerful engines, and sleek design.",
+        "hint2": "d...",
+        "giveUp": "ducati"
+      },
+      {
+        "emo": "🎤🎶🖤",
+        "hint1": "They're a popular South Korean girl group known for their catchy songs, powerful performances, and stylish fashion. They've broken numerous records and have a massive global fanbase.",
+        "hint2": "b...",
+        "giveUp": "blackpink"
+      },
+      {
+        "emo": "👨‍🔧🍄",
+        "hint1": "A mustachioed plumber from the Mushroom Kingdom who wears a red jumpsuit and cap and rescues Princess Peach from the evil Bowser.",
+        "hint2": "m...",
+        "giveUp": "mario"
+      },
+      {
+        "emo": "🌊🚤",
+        "hint1": "A watercraft designed to operate underwater.",
+        "hint2": "s...",
+        "giveUp": "submarine"
+      },
+      {
+        "emo": "🚗",
+        "hint1": "A luxury German automotive brand renowned for its sporty performance, sleek design, advanced technology, and strong emphasis on safety. Its vehicles are often associated with success, prestige, and a refined driving experience.",
+        "hint2": "b...",
+        "giveUp": "bmw"
+      },
+      {
+        "emo": "₿💰",
+        "hint1": "A digital currency that uses cryptography for security.",
+        "hint2": "b...",
+        "giveUp": "bitcoin"
+      },
+      {
+        "emo": "🌟🎤❤️",
+        "hint1": "A Grammy-winning singer-songwriter known for her heartfelt lyrics, catchy melodies, and evolving musical style.",
+        "hint2": "t... s...",
+        "giveUp": "taylor swift"
+      },
+      {
+        "emo": "🚀💰🧠👽🤖⚡️",
+        "hint1": "Tech visionary leading space exploration, electric cars, and AI. Known for bold goals and innovative companies.",
+        "hint2": "e... m...",
+        "giveUp": "้elon musk"
+      },
+      {
+        "emo": "🛕🛺",
+        "hint1": "The capital and most populous city is a vibrant, bustling metropolis renowned for its ornate temples, bustling street markets, delectable cuisine, and vibrant nightlife.",
+        "hint2": "b...",
+        "giveUp": "้bangkok"
+      },
+      {
         "emo": "🌊",
-        "hint1": "an overflow of water that submerges land that is usually dry.",
+        "hint1": "An overflow of water that submerges land that is usually dry.",
         "hint2": "f...",
         "giveUp": "้flood"
       },
@@ -27,7 +81,7 @@
       {
         "emo": "🤖",
         "hint1": "Systems that can reason, learn, and actautonomously.",
-        "hint2": "A...",
+        "hint2": "a...",
         "giveUp": "ai"
       },
       {
